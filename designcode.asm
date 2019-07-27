@@ -1,10 +1,13 @@
 #make_bin#
-
+;initializing address
 #LOAD_SEGMENT=FFFFh#
 #LOAD_OFFSET=0000h#
 
 #CS=0000h#
 #IP=0000h#
+
+
+
 
 #DS=0000h#
 #ES=0000h#
